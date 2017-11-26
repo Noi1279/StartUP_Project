@@ -1,0 +1,67 @@
+I. Introduction
+Excellent service in an organization has become a liability. One of the excellent services is to satisfy customers with professionally qualified service competence with the characteristics of transparency, accountability and conditional (Tjiptono, 2001). In order to improve operational efficiency and quality of service to customers, institutions of Higher Education  is also required to develop a good business strategy, and one of them is by utilizing advances in information technology (IT). The use of IT in higher educations should be systematically considered and planned, considering that generally the institution is a non-profit organization, while the facts show that the implementation of IT requires a relatively high cost (PWC, 2004, Applegate et al., 2003).
+Nowadays, educational institutions all over the world make use of IT in managing their educational and administrative activities. IT has become a strategic tool for universities, for it significantly supports all main services of universities. It also guides at the planning and the functional levels of institutional processes, which are crucial to the execution of its research, administration, and teaching activities (Khthr et al, 2013). The increased dependence of IT in the higher education environment has also led to the awareness for the adoption of formal IT governance practices (Bhattacharjya et al, n.d.) Moreover, a separate research conducted by Council has shown that medium-sized institutions of higher learning can benefit from the implementation of an IT governance security program. (Council, n.d.)
+Benguet State University has an existing system used for academic and accounting activities called the “Student Information and Accounting System”. It is a centralized Information system to all offices and department who has access or concerns regarding academic activities. Though IT processes are centralized and the system has been implemented since 2009, IT governance is still lacking.  IT processes need to be measured to determine the level of maturity of the implementation. Measurement of IT processes in higher education can be done using the COBIT Framework.
+COBIT (Control Objectives for Information and Related Technologies) is an internationally recognized industry framework developed by ISACA (Information Systems Audit and Control Association) which describes a set of good practices for the board, management, and operational and IT managers. It provides various maturity models and metrics that measure the achievement while identifying associated business responsibilities of IT processes. (Haes, 2015)
+COBIT 5, its latest version, makes it possible for IT to be regulated in a holistic manner for the entire organization. It is governed by five principles, namely: (1) Meeting stakeholder needs; (2) Covering the enterprise end-to-end; (3) Applying a single integrated framework; (4) Enabling a holistic approach; and (5) Separating governance from management. These five principles permits the organization to shape an effective governing framework based  on a holistic set of enablers. These enablers optimises information and technology investment and use for the benefit of stakeholders. (Garsoux, n.d.). Its process reference model subdivides the IT-related practices and activities of the organization into two main areas - governance and management. At the governance layer, there are five processes in the Evaluate, Direct, and Monitor (EDM) domain. On the other hand, the management layer contains the other four domains, namely: Align, Plan, and Organize (APO); Build, Acquire and Implement (BAI); Deliver Service and Support (DSS); and Monitor, Evaluate, and Assess (MEA) (De Haes et al, n.d.). 
+To assure the quality of services that they offer, some of these institutions also opt to follow a recognized standard, like the ISO 9000. Viana do Castelo Polytechnic Institute, a High Public Portugese Educational Institution, implemented a Quality Management System that allowed to ensure the ISO 9000 certification. A case study was done to measure the effectiveness of adopting the COBIT framework into the institution. The result was that the institution has improved significantly the quality of services, reduced the execution time of tasks in about 25%, monitor and control more efficiency the technological infrastructure, reduced 30% in the number of incidents resolved and finalized by the various informatics departments and reduced 10% in the number of reopened incidents. (Gomes et al, 2009) This shows that COBIT is indeed compatible to use with the ISO 9000. 
+
+
+II. Integration Plan
+The absence of IT Strategic Plan will cause the use of IT resources on the management of academic activities and support of other management processes will not run perfectly and organized. Therefore to achieve the vision, mission, goals, and mechanisms of good governance on IT, an institution requires an IT Governance Plan.(Nuryatn, et,al)
+The proposed strategic plan in IT Governance aims to ensure that vision, mission, goals of BSU are meet through utilizing the use of IT resources and to ensure that IT are managed properly to avoid IT failures. The proposed strategic plan in IT Governance for BSU used the COBIT framework in Domain Plan and Organize, with the approach in the IT process PO1-Define a Strategic IT Plan, PO4 Define the IT Organisation and relationship, PO5 Manage the IT Investment, PO6 Communicate management aims and direction, PO7 Manage Human Resources, PO8 Ensure Complain With External Requirement, PO9 Assess Risks, AI5 Install and Accredit Systems.
+The process of identification on the IT condition is done by exploring the IT business focus on BSU as an educational institution through the criteria of information, business objectives and IT resources.
+
+A.    Identification Success Criteria of the IT Governance in BSU
+Based on the 4 perspective Balance Score Card (BSC), the goals of the institution is categorized through the following:
+1.Goals of the financial perspective -  is to have good and transparent financial management so that it will impact on the increase in profit,
+2.Goals from the perspective of the customer -   improvement of services and ensure that services provided are always on time and reliable so that the customer/user will get satisfaction.
+3.Goals from the internal perspective - is a commitment to always do the repair and maintain the functions of the business processes and ensure the service given in a line with the internal policies and applicable law so that the quality of service is maintained.
+4.Goals of learning and growth perspective - do their innovation and develop the human resources in order to become a leader in the similar business.
+ 
+In relation to the efficiency and effectiveness of the existing business processes requires the implementation of IT in the Higher Education. Therefore the right business strategy is needed to achieve business goals that have been set. Due to the use of IT, the business strategy defined uses 4-BSC IT perspective (Maria, et al., 2012)
+The Implementation of IT in the institution has the following IT goals in relation to the objectives of the institution:
+1.ensuring the existing IT services to support, an increase in the quality of the academic program
+2.supporting the quality improvement of management programs and institutions and
+3.supporting the increased cooperation with industry and other universities
+
+B.  Planning & Organisation
+In the COBIT framework the approach is measure-driven. The approach is to measure the level of IT capability and performance through mapping IT goals and the institution's vision, mission, and goals. The IT objectives are used to determine the achievement of the institution’s goals, missions and visions. Using the approach the following are the identified strategic plan for the IT governance of BSU:
+1.The existence of the unit that is responsible for the availability of IT services, which have clearly defined IT goals and strategies
+2.The existence of the Information system which is capable in giving IT services that support the process in higher education 
+3.The existence of the IT service continuity, which is able to support to the business process in higher education
+4.The existence of the Management's attention towards the importance of a reliable IT to support academic activities and processes of the supporting unit
+The strategic plan of IT Governance are further expanded and presented in the following table:
+
+B.1 Management and business System	& Information System that support the process in higher education	
+1. Establishing IT strategy in line with the strategy of the institution 
+2. Using optimally IT resources 
+3. Socializing IT objectives to all employees of the institution 
+4. Identifying and managing IT risks 
+5. Evaluating the quality of IT systems in accordance with business needs institutions 
+6. Ensuring any newly created IT project meets the business needs of the institution 
+7. Ensuring IT projects completed on schedule and in accordance with the set budget 
+8. Ensuring the new system works well when it is implemented 
+9. Ensuring the system changes without disrupting the ongoing business operations
+
+B.2 Continuity of Service	& Leadership and Commitment Support 
+1. Ensuring the benefits of the information used for users 
+2. Ensuring the quality of the service 
+3. Ensuring the quality of the system 
+4. Ensuring the information quality 
+5. Ensuring the IT management
+	
+
+
+III. References
+Applegate LM., Austin RD, McFarlan. FW. (2003). Coorporate Information Startegy and management: text and cases, 6th edition. Boston, M.A: McGraw-Hill
+Bhattacharjya, et al (n.d.). Evolving IT Governance Practices for IT and Business Alignment - A Case Study in an Australian Institution. Retrieved from  https://espace.curtin.edu.au/bitstream/handle/20.500.11937/42026/20128_downloaded_stream_116.pdf?sequence=2&isAllowed=y
+Council, Claude L. (n.d.) Implementing COBIT in Higher Educaation: Practices That Work Best. Retrieved from http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.617.6994&rep=rep1&type=pdf
+De Haes, et al (n.d.) Understanding the Core Concepts in COBIT 5. Retrieved from https://www.isaca.org/Journal/archives/2013/Volume-5/Pages/Understanding-the-Core-Concepts-in-COBIT-5.aspx
+Garsoux, M (n.d.) COBIT 5 ISACA's new framework for IT Governance, Risk, Security and Auditing. Retrieved from http://www.qualified-audit-partners.be/user_files/QECB_GLC_COBIT_5_ISACA_s_new_framework_201303.pdf
+Gomes, et al (2009). The Main Benefits of COBIT in a High Public Educational Institution - A Case Study. Retrieved from http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1078&context=pacis2009
+Haes, et al. (2015) Enterprise Governance of Information Technology. Switzerland: Springer.
+Khther R, et al (2013). Cobit Framework as a Guideline of Effective IT Governance in Higher Education: A Review. International Journal of Information Technology Convergence and Services (IJITCS), Volume 3. Retrieved from https://idc-online.com/technical_references/pdfs/information_technology/COBIT%20FRAMEWORK.pdf
+Nuryatno, R. E. T , et al (2010). Designing Information Technology Strategic Plan Using COBIT Framework V. 4.1 For BHMN Universities Case Study: Institut Teknologi Bandung.
+Tjiptono, Fandy. (2001). Strategi Pemasaran. First Edition. Andi Ofset.Yogyakarta
+	
